@@ -11,3 +11,4 @@ Mi nombre es Malena Ochoa, tengo 20 años y este es mi tercer año cursando en l
 - Tomo el mate amargo.
 ---
 
+![frfr](https://github.com/pdepjm/2024-tp0-presentacion-Malena8a/assets/164362851/a57cc55e-eebb-4e62-925e-26477cf7d04f)
