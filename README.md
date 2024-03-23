@@ -9,6 +9,8 @@ Mi nombre es Malena Ochoa, tengo 20 años y este es mi tercer año cursando en l
 - Tengo mucho interés en la gastronomía y prefiero lo salado antes que lo dulce.
 - Soy team verano.
 - Tomo el mate amargo.
+- Mi comida favorita es el pollo a la portuguesa con papas fritas que hace mi abuela.
+- Mis series favoritas son Glee y Avatar.
 ---
 
 ![frfr](https://github.com/pdepjm/2024-tp0-presentacion-Malena8a/assets/164362851/a57cc55e-eebb-4e62-925e-26477cf7d04f)
